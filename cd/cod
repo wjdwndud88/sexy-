@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void)
+{
+     printf("사과%d개는 %d원입니다.\n",10,9000);
+     return 0;
+ }
